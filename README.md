@@ -1,5 +1,5 @@
-# 💻  Logan Hughes
-### <h3 style="font-family: 'Courier New',, monospace;">` DigitalCraftsman (Developer/Dedicated Leaner/Gamer)`</h3>
+# 💻  Logan Hughes 🎮
+### <h3 style="font-family: 'Courier New',, monospace;">` Software Sculptor (Developer | Dedicated Learner |Gamer)`</h3>
 
 #### Hello! I’m a junior software developer exploring the ever-evolving world of technology. I have a deep passion for coding and love bringing ideas to life through functional and impactful software. There’s something incredible about starting with just lines of code and transforming them into something tangible and useful. I thrive on learning new technologies, refining my skills, and building projects that not only work but also make a difference. My journey is just beginning, and I’m excited to keep growing, creating, and pushing the boundaries of what I can build.
 
